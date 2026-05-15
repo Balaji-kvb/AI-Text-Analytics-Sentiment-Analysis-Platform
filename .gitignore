@@ -1,0 +1,43 @@
+# ==============================================================================
+# TextAnalytica .gitignore
+# ==============================================================================
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Dataset (too large for GitHub)
+*.csv
+data/
+
+# Models (regenerated via training script)
+models/*.joblib
+models/*.model
+models/*.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml

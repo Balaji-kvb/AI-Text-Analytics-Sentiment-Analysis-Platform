@@ -1,0 +1,36 @@
+# ==============================================================================
+# TextAnalytica — NLP Platform Dependencies
+# ==============================================================================
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Natural Language Processing
+nltk>=3.8.0
+spacy>=3.7.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Topic Modeling & Word Embeddings
+gensim>=4.3.0
+
+# Deep Learning — Transformers
+transformers>=4.36.0
+torch>=2.1.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.13.0
+wordcloud>=1.9.0
+plotly>=5.18.0
+
+# Web Application
+streamlit>=1.30.0
+
+# Model Serialization
+joblib>=1.3.0
+
+# Utilities
+tqdm>=4.66.0
