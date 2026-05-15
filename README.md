@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 TextAnalytica — End-to-End NLP & Text Analytics Platform
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -324,3 +325,7 @@ CSI324: Text Analytics — University Project
 ---
 
 *Built with ❤️ using Python, scikit-learn, spaCy, Transformers, and Streamlit*
+=======
+# AI-Text-Analytics-Sentiment-Analysis-Platform
+Industry-level NLP and Text Analytics platform using Python, TF-IDF, Machine Learning, BERT, spaCy, and Streamlit deployment.
+>>>>>>> df798a764877ddbecbe781d55f4d8ef4a1d5b23f
